@@ -1,20 +1,20 @@
 # SHUBHAM SHARMA
 
-![Shubham Sharma — Software Developer](assets/hero.svg?v=1)
+[![Shubham Sharma — Software Developer](assets/hero.svg?v=1)](https://github.com/shubham-coder-ship-it)
 
 Software Developer focused on building scalable backend and full-stack applications.
 My focus spans **Backend Development, Java Development and Full Stack Development**.
 
 ## About me
 
-![About me and my technical interests](assets/about-life.svg?v=1)
+[![About me and my technical interests](assets/about-life.svg?v=1)](https://github.com/shubham-coder-ship-it)
 
 I build API-driven tools, interactive web experiences and practical career applications.
 My technical interests include trading automation, API engineering and full-stack product development.
 
 ## Technology stack
 
-![My development toolkit](assets/stack.svg?v=1)
+[![My development toolkit](assets/stack.svg?v=1)](https://github.com/shubham-coder-ship-it)
 
 **Backend:** Java, Spring Boot, Node.js, Express.js, Python  
 **Frontend:** JavaScript, React  
@@ -32,13 +32,13 @@ Also built: [Northstar Workspace](https://github.com/shubham-coder-ship-it/North
 
 ## Developer ID
 
-![Shubham Sharma developer ID — three featured projects, checked 7 November 2026](assets/id-dashboard.svg?v=1)
+[![Shubham Sharma developer ID — three featured projects, checked 7 November 2026](assets/id-dashboard.svg?v=1)](https://github.com/shubham-coder-ship-it)
 
 The project snapshot counts the **three featured repositories above**, whose README descriptions were checked on **7 November 2026**. It is not a total repository, follower or contribution count.
 
 ## Contact and social links
 
-![Connect on GitHub and LinkedIn](assets/connect.svg?v=1)
+[![Connect on GitHub and LinkedIn](assets/connect.svg?v=1)](https://www.linkedin.com/in/shubham-sharma-55ab97367/)
 
 - [GitHub — @shubham-coder-ship-it](https://github.com/shubham-coder-ship-it)
 - [LinkedIn — Shubham Sharma](https://www.linkedin.com/in/shubham-sharma-55ab97367/)
